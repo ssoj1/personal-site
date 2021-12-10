@@ -2404,8 +2404,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #3f5949
-	;
+				background: #3f5949;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2436,7 +2435,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 1.25em;
+				font-size: 2em;
 			}
 
 /* Table */
@@ -2621,8 +2620,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #3f5949
-;
+			background-color: #3f5949;
 			color: #ffffff !important;
 		}
 
@@ -2828,8 +2826,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #3f5949
-				 !important;
+							color: #3f5949 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3097,8 +3094,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #3f5949
-			;
+						background: #3f5949;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
